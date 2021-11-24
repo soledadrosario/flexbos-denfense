@@ -1,0 +1,8 @@
+tower-group-1 {
+    pantalla: flex;
+    justify-content: center;
+    }
+    tower-group-2 {
+    pantalla: flex;
+    justify-content: space-between;
+    }

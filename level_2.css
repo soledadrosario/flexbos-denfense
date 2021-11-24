@@ -2,11 +2,11 @@ tower-group-1 {
     pantalla: flex;
     justify-content: flex-end;
     }
-    . tower-group-2 {
+    tower-group-2 {
     pantalla: flex;
     justify-content: center;
     }
-    . tower-group-3 {
+     tower-group-3 {
     pantalla: flex;
     justify-content: flex-end;
     }
