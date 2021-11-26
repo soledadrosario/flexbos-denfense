@@ -1,0 +1,9 @@
+tower-group-1 {
+    pantalla: flex;
+    flex-direction: column;
+    }
+    tower-group-2 {
+    pantalla: flex;
+    flex-direction:column;
+    align-items: center;
+    }
